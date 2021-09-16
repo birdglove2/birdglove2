@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdglove2&show_icons=true&count_private=true&theme=highcontrast)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=birdglove2&repo=Pok-Deng-Game)](https://github.com/birdglove2/Pok-Deng-Game)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=birdglove2&repo=Pok-Deng-Game)](https://github.com/birdglove2/Pok-Deng-Game) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
