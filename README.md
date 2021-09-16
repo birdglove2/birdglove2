@@ -15,16 +15,16 @@ I’m currently working on ...
 - ⚡ Fun fact: ...
 -->
 
-🔭 A passionate student who pursues technology and loves to see how it can innovatively drive the whole world and make it a better place
+🔭  A passionate student who pursues technology and loves to see how it can innovatively drive the whole world and make it a better place
 
 
-📚 I’m currently a senior engineering (ICE) student at Chulalongkorn University
+📚  I’m currently a senior engineering (ICE) student at Chulalongkorn University
 
 
-🌱 I’m currently learning AI & Machine Learning
+🌱  I’m currently learning AI & Machine Learning
 
 
-📫 How to reach me: LinkedIn [Krittamook Aksornchindarat](https://www.linkedin.com/in/krittamook-aksornchindarat-324809202/)
+📫  How to reach me: LinkedIn [Krittamook Aksornchindarat](https://www.linkedin.com/in/krittamook-aksornchindarat-324809202/)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdglove2&show_icons=true&count_private=true&theme=highcontrast) -->
 
