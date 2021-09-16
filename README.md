@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me: LinkedIn [Krittamook Aksornchindarat](https://www.linkedin.com/in/krittamook-aksornchindarat-324809202/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdglove2&show_icons=true&count_private=true&theme=highcontrast)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdglove2&show_icons=true&count_private=true&theme=highcontrast) -->
 
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=birdglove2&show_icons&bg_color=30,2a0e6a,4e4398,3d72b0,68b3c3&title_color=fff&text_color=fff)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=birdglove2&show_icons&bg_color=30,2a0e6a,4e4398,3d72b0,6fd9e4&title_color=fff&text_color=fff)
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=birdglove2&repo=Pok-Deng-Game)](https://github.com/birdglove2/Pok-Deng-Game) -->
