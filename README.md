@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 📫 How to reach me: LinkedIn [Krittamook Aksornchindarat](https://www.linkedin.com/in/krittamook-aksornchindarat-324809202/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdglove2)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdglove2&count_private=true)
+
