@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 A senior engineering (ICE) student at Chulalongkorn University
+🔭 A passionate student who pursues technology and loves to see how it can innovatively drive the whole world and make it a better place
+
+
+📚 I’m currently a senior engineering (ICE) student at Chulalongkorn University
+
+
+🌱 I’m currently learning AI & Machine Learning
 
 
 📫 How to reach me: LinkedIn [Krittamook Aksornchindarat](https://www.linkedin.com/in/krittamook-aksornchindarat-324809202/)
