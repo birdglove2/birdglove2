@@ -21,7 +21,7 @@ I’m currently working on ...
 📚  I’m currently a senior engineering (ICE) student at Chulalongkorn University
 
 
-🌱  I’m currently learning AI & Machine Learning
+🌱  I’m currently learning Blockchain
 
 
 📫  How to reach me: LinkedIn [Krittamook Aksornchindarat](https://www.linkedin.com/in/krittamook-aksornchindarat-324809202/)
@@ -32,8 +32,8 @@ I’m currently working on ...
 <!-- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=birdglove2&show_icons&bg_color=45,2a0e6a,87c4e2,af93e9&title_color=fff&text_color=fff) -->
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=birdglove2&show_icons&bg_color=45,2a0e6a,87c4e2&title_color=fff&text_color=fff)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=birdglove2&repo=Pok-Deng-Game)](https://github.com/birdglove2/Pok-Deng-Game) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=birdglove2&repo=Pok-Deng-Game)](https://github.com/birdglove2/Pok-Deng-Game)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birdglove2&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birdglove2&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+ -->
